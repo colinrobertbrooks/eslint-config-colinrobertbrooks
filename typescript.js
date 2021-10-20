@@ -12,7 +12,9 @@ module.exports = {
         },
       },
       rules: {
+        '@typescript-eslint/no-shadow': ['error'],
         'import/extensions': 'off',
+        'no-shadow': 'off',
         'react/prop-types': 'off',
       },
     },
