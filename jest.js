@@ -57,6 +57,6 @@ module.exports = {
     'testing-library/no-debug': 'warn',
   },
   env: {
-    'jest/globals': true,
+    jest: true,
   },
 };
