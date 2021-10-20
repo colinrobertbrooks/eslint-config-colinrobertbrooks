@@ -31,10 +31,9 @@ Additional extensions:
 - `colinrobertbrooks/cypress`
 - `colinrobertbrooks/jest`
 - `colinrobertbrooks/prettier`
-- `colinrobertbrooks/prettier/react`
 - `colinrobertbrooks/typescript`
 
-_`colinrobertbrooks/prettier*` extensions must come last in the "extends" array so they get the chance to override other configs._
+_ `colinrobertbrooks/prettier` must come last in the "extends" array so they get the chance to override other configs._
 
 ## License
 

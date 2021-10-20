@@ -3,10 +3,7 @@ module.exports = {
     {
       files: ['**/*.ts?(x)'],
       parser: '@typescript-eslint/parser',
-      extends: [
-        'plugin:@typescript-eslint/recommended',
-        'prettier/@typescript-eslint',
-      ],
+      extends: ['plugin:@typescript-eslint/recommended'],
       settings: {
         'import/resolver': {
           node: {
