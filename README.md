@@ -33,7 +33,7 @@ Additional extensions:
 - `colinrobertbrooks/prettier`
 - `colinrobertbrooks/typescript`
 
-_`colinrobertbrooks/prettier` must come last in the "extends" array so they get the chance to override other configs._
+_`colinrobertbrooks/prettier` must come last in the "extends" array so it gets the chance to override other configs._
 
 ## License
 
