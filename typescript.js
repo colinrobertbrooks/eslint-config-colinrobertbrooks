@@ -12,10 +12,14 @@ module.exports = {
         },
       },
       rules: {
-        '@typescript-eslint/no-shadow': ['error'],
         'import/extensions': 'off',
-        'no-shadow': 'off',
         'react/prop-types': 'off',
+
+        'no-shadow': 'off',
+        '@typescript-eslint/no-shadow': ['error'],
+
+        'no-use-before-define': 'off',
+        '@typescript-eslint/no-use-before-define': ['error'],
       },
     },
   ],
