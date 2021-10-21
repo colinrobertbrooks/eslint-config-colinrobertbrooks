@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-colinrobertbrooks",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "ESLint rules for colinrobertbrooks",
   "main": "index.js",
   "scripts": {},
